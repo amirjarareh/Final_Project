@@ -1,0 +1,8 @@
+#file path
+C:/Users/JARAREH/Desktop/final_Project/final/Panel/CNN/yolov5
+#image source
+/Ui/Data-Image/Analyze
+#weight source
+/best.pt
+#project save
+/images
